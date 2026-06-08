@@ -1,0 +1,1 @@
+Select * from [PC_SALES_STAGING].[dbo].[raw_pc_data]
